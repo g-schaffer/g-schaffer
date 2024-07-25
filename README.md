@@ -1,1 +1,1 @@
-👋 Hi, fullstack developer lost on internet making some projects for fun
+👋 Hi, fullstack developer main stack : Selenium, Vuejs, Laravel, Django
